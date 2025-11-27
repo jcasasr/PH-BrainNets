@@ -7,4 +7,5 @@ Brain networks, or graphs, derived from magnetic resonance imaging (MRI) offer a
 MRI, Brain networks, Graph theory, Persistent Homology, Multiple Sclerosis, Machine Learning
 
 ## Reference
-*TODO*
+
+Lozano-Bagén, T., Martinez-Heras, E., Pontillo, G., Solana, E., Vivó, F., Petracca, M., Calvi, A., Garrido-Romero, S., Solé-Ribalta, A., Llufriu, S., Prados, F. and Casas-Roma, J. (2025) *Evaluating topological and graph-theoretical approaches to extract complex multimodal brain connectivity patterns in multiple sclerosis*. **Health Information Science and Systems**, Vol. 13, N. 68. [https://doi.org/10.1007/s13755-025-00386-y](https://doi.org/10.1007/s13755-025-00386-y)
